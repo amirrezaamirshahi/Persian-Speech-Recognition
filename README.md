@@ -187,7 +187,7 @@ Contributions welcome! Fork the repo, create a feature branch, and submit a PR. 
 
 ## 📞 Authors & Acknowledgments
 
-- **Primary Developer**: [Your Name] – [your.email@example.com](mailto:your.email@example.com)
+- **Primary Developer**: [Amirreza Amirshahi] – [amirreza2002amirshahi@gmail.com](mailto:amirreza2002amirshahi@gmail.com)
 - Dataset sourced from custom recordings (anonymized).
 - Thanks to Librosa, SciPy, and Matplotlib teams for foundational tools.
 
