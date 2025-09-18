@@ -195,11 +195,7 @@ Contributions welcome! Fork the repo, create a feature branch, and submit a PR. 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
 
-- [Demo Video](https://youtu.be/example) (TBD)
-- [Dataset Repo](https://github.com/example/persian-speech-dataset) (if available)
-- Questions? Open an [Issue](https://github.com/yourusername/persian-dtw-speech-recognition/issues)!
 
 ---
 
