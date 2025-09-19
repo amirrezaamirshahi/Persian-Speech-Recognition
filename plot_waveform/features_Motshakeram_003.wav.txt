@@ -1,0 +1,4 @@
+File: Motshakeram_003.wav
+RMS: 0.0865
+Zero-Crossing Rate: 0.1188
+Energy: 218.19

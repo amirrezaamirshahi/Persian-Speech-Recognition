@@ -1,0 +1,4 @@
+File: BesiarAali_004.wav
+RMS: 0.0712
+Zero-Crossing Rate: 0.0966
+Energy: 163.67

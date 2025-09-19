@@ -1,0 +1,4 @@
+File: fekhrkonam_bale.wav
+RMS: 0.1436
+Zero-Crossing Rate: 0.0992
+Energy: 570.03

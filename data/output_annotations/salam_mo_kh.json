@@ -1,0 +1,22 @@
+{
+    "filename": "salam_mo_kh.wav",
+    "text": "سلام متشکرم خداحافظ",
+    "duration": 3.319770833333333,
+    "keywords": [
+        {
+            "word": "سلام",
+            "start_time": 0.24,
+            "end_time": 0.73
+        },
+        {
+            "word": "متشکرم",
+            "start_time": 0.24,
+            "end_time": 0.73
+        },
+        {
+            "word": "خداحافظ",
+            "start_time": 0.24,
+            "end_time": 0.73
+        }
+    ]
+}

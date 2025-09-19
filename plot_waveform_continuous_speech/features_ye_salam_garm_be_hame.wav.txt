@@ -1,0 +1,4 @@
+File: ye_salam_garm_be_hame.wav
+RMS: 0.1174
+Zero-Crossing Rate: 0.0866
+Energy: 366.95

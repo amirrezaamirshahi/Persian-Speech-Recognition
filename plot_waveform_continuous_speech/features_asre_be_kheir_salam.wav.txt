@@ -1,0 +1,4 @@
+File: asre_be_kheir_salam.wav
+RMS: 0.1463
+Zero-Crossing Rate: 0.1346
+Energy: 449.60

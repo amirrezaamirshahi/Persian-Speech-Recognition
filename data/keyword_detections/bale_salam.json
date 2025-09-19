@@ -1,0 +1,17 @@
+{
+    "filename": "bale_salam.wav",
+    "text": "  بله سلام عرض کردم",
+    "duration": 2.439771,
+    "keywords": [
+        {
+            "word": "بله",
+            "start_time": 0.0,
+            "end_time": 0.54
+        },
+        {
+            "word": "سلام",
+            "start_time": 0.54,
+            "end_time": 1.09
+        }
+    ]
+}

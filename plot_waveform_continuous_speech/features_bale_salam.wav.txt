@@ -1,0 +1,4 @@
+File: bale_salam.wav
+RMS: 0.1298
+Zero-Crossing Rate: 0.1118
+Energy: 405.28

@@ -1,0 +1,4 @@
+File: na_khir_ashtebah_shode.wav
+RMS: 0.1306
+Zero-Crossing Rate: 0.1089
+Energy: 436.52

@@ -1,0 +1,4 @@
+File: kheili_moteshaker.wav
+RMS: 0.1337
+Zero-Crossing Rate: 0.0998
+Energy: 466.63

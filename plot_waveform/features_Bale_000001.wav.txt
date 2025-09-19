@@ -1,0 +1,4 @@
+File: Bale_000001.wav
+RMS: 0.1197
+Zero-Crossing Rate: 0.1026
+Energy: 220.18

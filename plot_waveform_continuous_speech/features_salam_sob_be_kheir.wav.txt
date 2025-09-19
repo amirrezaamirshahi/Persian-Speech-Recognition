@@ -1,0 +1,4 @@
+File: salam_sob_be_kheir.wav
+RMS: 0.1352
+Zero-Crossing Rate: 0.1263
+Energy: 346.37

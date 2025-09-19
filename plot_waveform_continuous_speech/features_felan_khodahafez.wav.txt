@@ -1,0 +1,4 @@
+File: felan_khodahafez.wav
+RMS: 0.1530
+Zero-Crossing Rate: 0.1117
+Energy: 479.13

@@ -1,0 +1,17 @@
+{
+    "filename": "asre_be_kheir_salam.wav",
+    "text": " عصر به خیر سلام ",
+    "duration": 2.5997708333333334,
+    "keywords": [
+        {
+            "word": "سلام",
+            "start_time": 1.36,
+            "end_time": 1.64
+        },
+         {
+            "word": "خیر",
+            "start_time": 0.96,
+            "end_time": 1.31
+        } 
+    ]
+}

@@ -1,0 +1,4 @@
+File: salam_mo_kh.wav
+RMS: 0.1011
+Zero-Crossing Rate: 0.1171
+Energy: 382.01

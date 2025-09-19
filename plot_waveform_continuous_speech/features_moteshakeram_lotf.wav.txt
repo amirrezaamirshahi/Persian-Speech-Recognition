@@ -1,0 +1,4 @@
+File: moteshakeram_lotf.wav
+RMS: 0.1397
+Zero-Crossing Rate: 0.0986
+Energy: 539.45

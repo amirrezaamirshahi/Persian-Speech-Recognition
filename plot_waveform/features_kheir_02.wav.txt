@@ -1,0 +1,4 @@
+File: kheir_02.wav
+RMS: 0.0762
+Zero-Crossing Rate: 0.1159
+Energy: 181.94

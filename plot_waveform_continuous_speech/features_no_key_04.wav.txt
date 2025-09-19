@@ -1,0 +1,4 @@
+File: no_key_04.wav
+RMS: 0.1285
+Zero-Crossing Rate: 0.0943
+Energy: 422.79

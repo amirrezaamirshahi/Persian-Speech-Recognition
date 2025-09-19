@@ -1,0 +1,4 @@
+File: khir_intor_nist.wav
+RMS: 0.1179
+Zero-Crossing Rate: 0.1056
+Energy: 284.57

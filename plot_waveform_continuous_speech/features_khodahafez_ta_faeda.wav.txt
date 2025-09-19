@@ -1,0 +1,4 @@
+File: khodahafez_ta_faeda.wav
+RMS: 0.1378
+Zero-Crossing Rate: 0.0883
+Energy: 466.57

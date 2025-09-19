@@ -1,0 +1,4 @@
+File: Salam_04.wav
+RMS: 0.0756
+Zero-Crossing Rate: 0.1024
+Energy: 131.82

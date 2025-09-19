@@ -1,0 +1,19 @@
+{
+    "filename": "salam_sob_be_kheir.wav",
+    "text": "سلام صبح به خیر",
+    "duration": 2.919771,
+    "keywords": [
+        {
+            "word": "سلام",
+            "start_time": 0.0,
+            "end_time": 0.58,
+            "distance": 29.672295365946024
+        },
+        {
+            "word": "خیر",
+            "start_time": 1.25,
+            "end_time": 1.6,
+            "distance": 31.336227232912513
+        }
+    ]
+}

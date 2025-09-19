@@ -1,0 +1,4 @@
+File: Khodahafez_003.wav
+RMS: 0.0874
+Zero-Crossing Rate: 0.1157
+Energy: 211.28

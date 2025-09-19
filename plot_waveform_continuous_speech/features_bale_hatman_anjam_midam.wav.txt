@@ -1,0 +1,4 @@
+File: bale_hatman_anjam_midam.wav
+RMS: 0.1156
+Zero-Crossing Rate: 0.1222
+Energy: 424.28
